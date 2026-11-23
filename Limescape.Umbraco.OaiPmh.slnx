@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Limescape.Umbraco.OaiPmh/Limescape.Umbraco.OaiPmh.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Limescape.Umbraco.OaiPmh.Tests/Limescape.Umbraco.OaiPmh.Tests.csproj" />
+  </Folder>
+</Solution>

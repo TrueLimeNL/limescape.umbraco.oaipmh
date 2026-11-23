@@ -1,0 +1,304 @@
+Limescape Open Platform Licentie
+Versie 1.0
+
+Copyright © 2026 TrueLime B.V.
+30 oktober 2026
+
+Disclaimer: De LOPL is een source-available licentie en geen OSI-goedgekeurde open-sourcelicentie.
+
+1. Inleidend
+
+Met deze Licentie kan een publieke organisatie of een andere organisatie zonder winstoogmerk de
+Limescape Software zelfstandig gebruiken, wijzigen en hosten, zonder daarvoor afhankelijk te zijn
+van TrueLime. De Licentie staat Intern Gebruik en Publiek Samenwerkingsgebruik toe, zonder beperking
+in het aantal agents, gebruikers of executies. Voor elk ander gebruik, zoals exploitatie van de
+Software voor anderen (commerciële hosting, managed services, OEM, embedded en white-label) is een
+Commerciële Licentie vereist.
+
+TrueLime B.V. verleent de rechten uit deze Licentie aan iedere organisatie die zich via
+www.limescape.ai als gebruiker heeft geregistreerd en daarbij deze Licentie heeft aanvaard. TrueLime
+B.V. stelt de Broncode na registratie beschikbaar. Deze rechten zijn uitsluitend verleend binnen de
+grenzen van deze Licentie; elk gebruik daarbuiten is een inbreuk op de intellectuele
+eigendomsrechten van TrueLime B.V..
+
+2. Licentieverlening
+
+TrueLime B.V. verleent de Licentiehouder een wereldwijde, royaltyvrije en niet-exclusieve licentie
+om de Software voor Intern Gebruik te installeren, uit te voeren, onderzoeken, reproduceren en
+wijzigen en daarvan Bewerkingen te maken; eigen agents, workflows, connectors en integraties te
+ontwikkelen; een Dienstverlener volgens artikel 5 in te schakelen; onder artikel 7 te verspreiden;
+en volgens artikel 4 publiek samen te gebruiken. De Licentie geldt voor onbepaalde duur voor iedere
+versie die de Licentiehouder rechtmatig heeft ontvangen en kan alleen eindigen volgens artikel 19.
+Niet uitdrukkelijk verleende rechten blijven voorbehouden.
+
+3. Reguliere dienstverlening
+
+De Software mag de reguliere dienstverlening van de Eigen Organisatie aan haar eigen doelgroepen
+ondersteunen. Externe interactie via een portaal, chatbot, formulier, assistent of API is niet
+automatisch Commerciële Hosting. Externe organisaties mogen niet zelfstandig een Wezenlijk Deel van
+de Functionaliteit beheren of commercieel exploiteren. Artikel 14 bepaalt voor welke toepassingen de
+Software niet is bestemd.
+
+4. Publieke samenwerking
+
+Licentiehouders die Publieke Organisaties zijn, mogen de Software in een publiek
+samenwerkingsverband of publiek shared-servicecentrum gezamenlijk hosten en beheren zonder
+Commerciële Licentie wanneer het gebruik uitsluitend publieke of maatschappelijke taken ondersteunt,
+bijdragen beperkt zijn tot kostendekking, toegang beperkt is tot de Deelnemers en hun reguliere
+doelgroepen, Limescape-herkomst zichtbaar blijft, verspreiding artikel 7 volgt en geen commerciële
+hosting, resale, OEM of white-labeling plaatsvindt. Iedere Deelnemer is zelf Licentiehouder. Indien
+een publiek samenwerkingsverband een omvang, gebruiksintensiteit of organisatorische inrichting
+bereikt die redelijkerwijs vergelijkbaar is met een zelfstandige platform- of hostingdienst, treden
+partijen in overleg over passende licentievoorwaarden. Tot dat moment blijft het gebruik onder deze
+Licentie toegestaan. Een commerciële beheerpartij mag uitsluitend als Dienstverlener namens de
+publieke samenwerking handelen en verkrijgt geen zelfstandig exploitatierecht.
+
+5. Dienstverlening door derden
+
+Consultants en IT-dienstverleners mogen implementatie, ontwikkeling, configuratie, integratie,
+training, onderhoud en ondersteuning leveren rond een rechtmatig gebruikte instantie. Een
+Dienstverlener mag de Software hosten en beheren uitsluitend namens één Licentiehouder of één
+Publiek Samenwerkingsgebruik. Deze bevoegdheid verleent geen zelfstandig exploitatierecht. Het
+structureel hosten, beheren of ondersteunen van Limescape voor meerdere niet-verbonden organisaties
+wordt aangemerkt als commerciële dienstverlening rond Limescape en vereist een Commerciële Licentie.
+Dienstverleners verkrijgen geen eigen gebruiksrecht en mogen geen gedeelde commerciële
+Limescape-hosting exploiteren, toegang doorverkopen, Limescape als eigen product presenteren of
+Klant-specifieke Materialen zonder toestemming hergebruiken. Wie de Software voor meerdere
+organisaties wil hosten of beheren, heeft een Commerciële Licentie nodig. De Licentiehouder legt de
+verplichtingen uit de artikelen 6 en 7 schriftelijk op aan haar Dienstverlener en staat in voor de
+naleving daarvan.
+
+6. Verboden gebruik
+
+Zonder Commerciële Licentie zijn verboden: Commerciële Hosting; commerciële SaaS, PaaS of managed
+services; commerciële multi-tenancy; OEM-, embedded- of white-labelaanbod; resale of sublicentiëring
+van toegang; omzeilen van licentie- of toegangscontroles; verwijderen van kennisgevingen; en
+misleidende claims over goedkeuring door TrueLime B.V.. Wettelijke rechten van de rechtmatige
+gebruiker van programmatuur blijven onverlet.
+
+7. Verspreiding
+
+Verspreiding van de Software of Bewerkingen is uitsluitend toegestaan indien de ontvanger voldoet
+aan de voorwaarden van dezelfde LOPL. Een ontvanger verkrijgt rechten op de Software alleen door
+zich zelf volgens de aanhef van deze Licentie te registreren. Bij verspreiding van Uitvoerbare code
+moet gelijktijdig de volledige corresponderende Broncode zonder extra licentievergoeding beschikbaar
+zijn, inclusief wijzigingen en noodzakelijke bouw- en installatiebestanden. Wijzigingen, maker en
+datum of versie worden vermeld; licentie- en auteursrechtvermeldingen blijven behouden. Verspreiding
+verleent geen recht op verboden commerciële exploitatie. Zelfstandige werken en API-integraties die
+auteursrechtelijk geen Bewerking zijn, hoeven niet onder de LOPL te vallen.
+
+8. Klant-specifieke Materialen
+
+Deze Licentie geeft TrueLime B.V. geen rechten op Klant-specifieke Materialen, behoudens artikel 9.
+Heeft de Licentiehouder een Klantovereenkomst met TrueLime B.V., dan beheerst die overeenkomst de
+verdeling van de rechten op wat TrueLime B.V. voor haar realiseert en gaat zij bij strijd voor. Deze
+Licentie draagt geen rechten over op Limescape, generieke platformcomponenten, architectuur,
+generieke agents en connectors, methodieken, modellen, governance, logging, observability, merken of
+andere onderdelen waarvan het intellectueel eigendom bij TrueLime B.V. of derden ligt. De
+Licentiehouder mag Klant-specifieke Materialen ter beschikking stellen aan een andere Licentiehouder
+voor gebruik met de Software onder deze Licentie.
+
+9. Bijdragen
+
+Verspreidt de Licentiehouder een Bewerking volgens artikel 7, dan stelt zij die Bewerking
+gelijktijdig, met de bijbehorende Broncode, als Bijdrage ter beschikking aan TrueLime B.V. en zo
+potentieel aan alle LOPL-licentiehouders; Klant-specifieke Materialen en gegevens van de
+Licentiehouder vallen hier niet onder. Met een Bijdrage verleent de bijdrager TrueLime B.V. een
+niet-exclusief, kosteloos en onherroepelijk recht van onbepaalde duur om de Bijdrage te gebruiken,
+te wijzigen, in het platform op te nemen en onder deze Licentie of andere voorwaarden uit te
+brengen. De bijdrager staat ervoor in dat zij daartoe bevoegd is en geen materiaal toevoegt dat
+onder strijdige voorwaarden is gelicentieerd. TrueLime B.V. hoeft Bijdragen niet te accepteren.
+
+10. Commerciële licenties en handhaving
+
+Een afzonderlijke Commerciële Licentie is vereist voor de vormen van gebruik die artikel 6 verbiedt
+en voor ander gebruik buiten Intern Gebruik of Publiek Samenwerkingsgebruik. Gebruikt de
+Licentiehouder de Software zonder de vereiste Commerciële Licentie, dan is zij TrueLime B.V. over de
+gehele periode van dat gebruik de vergoeding verschuldigd die TrueLime B.V. daarvoor op dat moment
+onder een Commerciële Licentie in rekening brengt, onverminderd de overige rechten van TrueLime
+B.V.. De Licentiehouder verstrekt TrueLime B.V. op schriftelijk verzoek binnen dertig dagen de
+informatie die redelijkerwijs nodig is om na te gaan of zij deze Licentie naleeft.
+
+11. Afzonderlijke commerciële functionaliteit
+
+Alleen de Software valt onder deze Licentie. EE-onderdelen zijn als zodanig gemarkeerd in een
+licentiebestand in de repository, in de kopteksten van bestanden of door plaatsing in een
+afzonderlijke map. Deze onderdelen zijn uitgesloten van deze Licentie en beschermingsmaatregelen
+mogen niet worden omzeild. Een onderdeel dat TrueLime B.V. onder de LOPL heeft verstrekt, blijft
+voor die versie onder de LOPL vallen.
+
+12. Componenten van derden
+
+Componenten, modellen, datasets, API’s, cloud- en infrastructuurdiensten van derden blijven
+onderhevig aan hun eigen voorwaarden. De Licentiehouder is verantwoordelijk voor naleving daarvan.
+TrueLime B.V. vermeldt bij iedere versie van de Software de meegeleverde componenten van derden met
+de voorwaarden die daarop van toepassing zijn.
+
+13. Merken
+
+De LOPL verleent geen rechten op namen, merken, logo’s, domeinen of huisstijl van TrueLime B.V..
+Correcte herkomstvermelding is toegestaan. Een wezenlijk gewijzigde versie wordt duidelijk als
+niet-officiële versie aangeduid.
+
+14. Privacy, beveiliging en verantwoord gebruik
+
+De Licentiehouder is zelfstandig verantwoordelijk voor AVG, AI-verordening, sectorspecifieke regels,
+DPIA’s, risicoanalyses, passende technische en organisatorische maatregelen, identiteits- en
+toegangsbeheer, infrastructuur, integraties, API-sleutels, logging, monitoring, bewaartermijnen,
+menselijke controle, datakwaliteit, incidentrespons en transparantie. De Software maakt naleving van
+AVG, AI-verordening, BIO, NEN 7510 of ISO 27001 niet automatisch. Bij hosting door of voor de
+Licentiehouder is TrueLime B.V. niet verantwoordelijk voor hardening, patches, back-ups,
+beschikbaarheid, netwerkbeveiliging, monitoring, incidenten of gegevensverlies. Deze Licentie brengt
+geen verwerking van persoonsgegevens door TrueLime B.V. mee; voor diensten van TrueLime B.V. onder
+een Klantovereenkomst gelden de afspraken daarin. De Software is niet gevalideerd als medisch
+hulpmiddel of als AI-systeem voor hoog risico toepassingen; zet de Licentiehouder de Software voor
+zo’n doel in, dan draagt zij de verplichtingen die daaruit voortvloeien. Voor zover wettelijk
+toegestaan vrijwaart de Licentiehouder TrueLime B.V. tegen aanspraken van derden die voortvloeien
+uit gebruik in strijd met deze Licentie of de wet, behalve bij opzet of bewuste roekeloosheid van de
+bedrijfsleiding van TrueLime B.V..
+
+15. Octrooien
+
+Mocht TrueLime B.V. de Software geheel of gedeeltelijk octrooieren, dan verleent TrueLime B.V.
+alsdan een beperkte, wereldwijde en royaltyvrije octrooilicentie voor toegestane handelingen. Deze
+eindigt wanneer de Licentiehouder of een verbonden partij een octrooiaanspraak tegen de Software
+instelt.
+
+16. Geen ondersteuning
+
+De LOPL geeft geen recht op support, onderhoud, updates, beveiligingsupdates, hosting,
+implementatie, training, servicedesk, SLA, continuïteit of herstel. TrueLime B.V. verleent zulke
+diensten uitsluitend onder een afzonderlijke Klantovereenkomst.
+
+17. Geen garantie
+
+De Software wordt geleverd “zoals zij is” en “zoals beschikbaar”. Voor zover wettelijk toegestaan
+worden garanties over geschiktheid, veiligheid, beschikbaarheid, juistheid, compliance,
+compatibiliteit en rechten van derden uitgesloten. AI-uitvoer wordt niet gegarandeerd als juist,
+volledig, actueel, onbevooroordeeld of geschikt voor besluitvorming.
+
+18. Aansprakelijkheid
+
+Voor zover wettelijk toegestaan is TrueLime B.V. niet aansprakelijk voor schade door gebruik,
+zelfhosting, configuratie, wijzigingen, gegevensverlies, AI-uitvoer, beslissingen,
+beveiligingsincidenten, derdencomponenten of beëindiging. Indirecte en gevolgschade, winst- en
+dataverlies, goodwillverlies, stagnatie en derdenclaims zijn uitgesloten, behoudens dwingend recht.
+
+19. Beëindiging
+
+Bij overtreding van deze LOPL door Licentiehouder en/of een Deelnemer eindigen de onder deze LOPL
+verkregen rechten automatisch. Na schriftelijke melding van een eerste overtreding kunnen rechten
+eenmalig met terugwerkende kracht herstellen wanneer de overtreding binnen dertig dagen stopt en
+redelijkerwijs wordt hersteld. Bij een volgende overtreding kan definitieve beëindiging volgen. Na
+beëindiging staakt de Licentiehouder het gebruik van de Software en verwijdert zij de Software en de
+Broncode. Rechten op Klant-specifieke Materialen blijven bestaan, maar uitvoering vereist een geldig
+licentierecht. Heeft de Licentiehouder een Klantovereenkomst met TrueLime B.V., dan laat beëindiging
+van deze Licentie de rechten uit die overeenkomst onverlet. Artikel 10 blijft na beëindiging gelden.
+
+20. Versies
+
+De LOPL geldt alleen voor Softwareversies waarop TrueLime B.V. haar uitdrukkelijk toepast. Nieuwe
+versies mogen andere voorwaarden hebben; de voorwaarden van een reeds rechtmatig ontvangen versie
+blijven gelden. TrueLime B.V. is niet verplicht nieuwe versies uit te brengen of die af te stemmen
+op Bewerkingen van de Licentiehouder; de Licentiehouder beslist zelf of zij een nieuwe versie in
+gebruik neemt.
+
+21. Overdracht
+
+TrueLime B.V. mag rechten en verplichtingen overdragen aan een rechtsopvolger, groepsmaatschappij of
+verkrijger van het product of de IE-rechten; zij legt de verkrijger de verplichting op deze Licentie
+na te komen. Overdracht door de Licentiehouder is toegestaan bij fusie, splitsing, wettelijke
+herindeling of overdracht van de activiteiten waarvoor de Software wordt gebruikt, na schriftelijke
+kennisgeving en mits de verkrijger zich aan deze Licentie bindt; overdracht verruimt de Eigen
+Organisatie niet.
+
+22. Deelbaarheid
+
+Ongeldigheid van een bepaling tast de overige bepalingen niet aan. De ongeldige bepaling wordt zo
+mogelijk vervangen door een geldige bepaling met vergelijkbare strekking.
+
+23. Recht en rechter
+
+Nederlands recht is van toepassing. Geschillen worden voorgelegd aan de bevoegde rechter van de
+rechtbank Zeeland-West-Brabant, tenzij dwingend recht anders bepaalt.
+
+24. Taal
+
+Bij verschillen tussen de Nederlandse versie en een vertaling is de Nederlandse versie beslissend.
+
+25. Contact
+
+TrueLime B.V. | Hoge Mosten 8 | 4822 NH Breda | Nederland | E-mail: info@truelime.nl | Website:
+www.truelime.nl
+
+Annex 1 - Definities
+
+Licentie: de Limescape Open Platform Licentie, hierna de “LOPL” of deze “Licentie”.
+
+Software: de Broncode, de Uitvoerbare code, scripts, schema’s, documentatie en overige materialen
+die TrueLime B.V. uitdrukkelijk onder de LOPL beschikbaar stelt; de EE-onderdelen zijn uitgesloten.
+
+Licentiegever: TrueLime B.V., statutair gevestigd te Breda, Nederland, KvK-nummer 20079889.
+
+Licentiehouder: de organisatie die zich volgens de aanhef van deze Licentie heeft geregistreerd en
+deze Licentie heeft aanvaard, mits zij een Publieke Organisatie of een andere organisatie zonder
+winstoogmerk is.
+
+Eigen Organisatie: uitsluitend de Licentiehouder en de rechtspersonen die met haar in een groep zijn
+verbonden en die zij bij de registratie heeft opgegeven; andere gelieerde rechtspersonen vallen hier
+niet onder en hebben een eigen Licentie nodig.
+
+Intern Gebruik: gebruik voor werkzaamheden, processen, medewerkers, data en reguliere
+dienstverlening van de Eigen Organisatie, zonder zelfstandige platformexploitatie.
+
+Publieke Organisatie: een overheid, bestuursorgaan, onderwijs- of zorginstelling, gemeenschappelijke
+regeling of andere organisatie met een overwegend publieke of maatschappelijke taak.
+
+Publiek Samenwerkingsgebruik: gezamenlijk gebruik en beheer van de Software door Licentiehouders die
+Publieke Organisaties zijn, in een publiek samenwerkingsverband of publiek shared-servicecentrum
+volgens artikel 4.
+
+Commerciële Hosting: hosting of beheer van de Software voor een of meer derden buiten de Eigen
+Organisatie, al dan niet tegen vergoeding, met uitzondering van Publiek Samenwerkingsgebruik volgens
+artikel 4 en van hosting en beheer door een Dienstverlener volgens artikel 5.
+
+Wezenlijk Deel van de Functionaliteit: zelfstandig ontwerp of beheer van agents, workflows,
+modellen, kennisbronnen, integraties, rollen, logging, evaluaties, tenants, API-sleutels, budgetten
+of platformcapaciteit.
+
+Klant-specifieke Materialen: agents, workflows, configuraties, prompts, regels, kennisstructuren,
+datamodellen, templates, plug-ins en documentatie die door of voor de Licentiehouder specifiek voor
+de Eigen Organisatie zijn gemaakt, met uitzondering van de Software en Bewerkingen daarvan.
+
+Verspreiding: het beschikbaar stellen van bron- of uitvoerbare code aan een andere natuurlijke
+persoon of rechtspersoon.
+
+Commerciële Licentie: een afzonderlijke schriftelijke overeenkomst met TrueLime B.V. voor niet onder
+de LOPL verleende exploitatierechten, zoals een licentie voor managed services, een OEM- of
+embedded-licentie of een white-labellicentie.
+
+Broncode: de voor mensen leesbare vorm van de Software, met inbegrip van commentaar, scripts,
+configuratiebestanden en de bouw- en installatiebestanden die nodig zijn om daaruit de Uitvoerbare
+code te maken en in gebruik te nemen.
+
+Uitvoerbare code: de door een computer uitvoerbare vorm van de Software, met inbegrip van
+containerimages en installatiepakketten.
+
+Bewerking: iedere wijziging, aanpassing of vertaling van de Software en ieder werk dat op de
+Software is gebaseerd, voor zover dat auteursrechtelijk een bewerking is.
+
+EE-onderdelen: ook wel Enterprise-Edition onderdelen; de onderdelen van het platform die volgens
+artikel 11 als Enterprise- of Commerciële Licentie of EE-onderdeel zijn gemarkeerd.
+
+Dienstverlener: een derde die de Licentiehouder inschakelt om de Software uitsluitend ten behoeve
+van de Eigen Organisatie of het Publiek Samenwerkingsgebruik te implementeren, te configureren, te
+hosten, te beheren, te onderhouden of verder te ontwikkelen.
+
+Deelnemer: een Licentiehouder die deelneemt in Publiek Samenwerkingsgebruik.
+
+Klantovereenkomst: een overeenkomst tussen TrueLime B.V. en de Licentiehouder over het gebruik van
+het platform of over diensten daarbij, zoals de Limescape Public SaaS Licentie, Limescape Private
+SaaS Licentie en de Limescape On Premise Licentie.
+
+Bijdrage: een Bewerking of ander materiaal dat de Licentiehouder aan TrueLime B.V. ter beschikking
+stelt voor opname in de Software.

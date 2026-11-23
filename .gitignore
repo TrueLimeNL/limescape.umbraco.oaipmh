@@ -1,0 +1,41 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.DotSettings.user
+TestResults/
+*.trx
+*.binlog
+artifacts/
+*.nupkg
+*.snupkg
+
+# Umbraco runtime
+**/umbraco/Data/
+**/umbraco/Logs/
+**/wwwroot/media/
+**/App_Data/
+**/appsettings.*.local.json
+appsettings-schema.json
+appsettings-schema.*.json
+umbraco-package-schema.json
+
+# Node
+node_modules/
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+
+# Secrets and local env
+.env
+.env.*
+*.pfx
+*.pem
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db

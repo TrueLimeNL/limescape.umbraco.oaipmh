@@ -1,0 +1,19 @@
+<Project>
+
+  <!-- Central package management. Umbraco stays on the 17 LTS line; bump UmbracoCmsVersion here only. -->
+
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>false</CentralPackageTransitivePinningEnabled>
+    <UmbracoCmsVersion Condition="'$(UmbracoCmsVersion)' == ''">17.7.1</UmbracoCmsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.AspNetCore.TestHost" Version="10.0.12" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.10.1" />
+    <PackageVersion Include="Umbraco.Cms.Web.Common" Version="$(UmbracoCmsVersion)" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="4.0.0" />
+    <PackageVersion Include="xunit.v3" Version="4.0.1" />
+  </ItemGroup>
+
+</Project>
